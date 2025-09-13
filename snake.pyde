@@ -30,7 +30,7 @@ previousDirection = uninitialized
 collision = False
 
 # 
-appleCoordinate = (-1, -1)
+appleCoordinate = (uninitialized, uninitialized)
 appleCollision = False
 
 ## Funktioner
